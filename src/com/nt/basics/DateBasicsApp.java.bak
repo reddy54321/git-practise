@@ -4,8 +4,6 @@ import java.text.SimpleDateFormat;
 
 public class DateBasicsApp {
 
-// jayaram reddy git practise
-
 	public static void main(String[] args) throws Exception{
 		//String s1="45-24-1980"; //dd-MM-yyyy
 		String s1="10-12-1980"; //dd-MM-yyyy
